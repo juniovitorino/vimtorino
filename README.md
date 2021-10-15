@@ -27,6 +27,7 @@ This is the list of pre-installed plugins.
 - Telescope - https://github.com/nvim-telescope/telescope.nviml
 - Nvim Tree - https://github.com/kyazdani42/nvim-tree.lua
 - Treesitter - https://github.com/nvim-treesitter/nvim-treesitter
+- Editorconfig - https://github.com/editorconfig/editorconfig-vim
 
 ## Roadmap
 
