@@ -1,0 +1,6 @@
+require('plugins')
+require('keybidings-config')
+require('vim-config')
+require('treesitter-config')
+require('nvim-tree-config')
+require('telescope-config')
