@@ -5,6 +5,7 @@ return require('packer').startup(function()
   use 'kyazdani42/nvim-web-devicons'
   use 'folke/which-key.nvim'
   use 'kdheepak/lazygit.nvim'
+  use 'editorconfig/editorconfig-vim'
   use {
     'kyazdani42/nvim-tree.lua',
     requires = 'kyazdani42/nvim-web-devicons'
